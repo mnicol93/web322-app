@@ -1,0 +1,39 @@
+body{
+    background-image: url("/not-found.png");
+    background-position: 70% 7%;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+#home-not-found{
+    text-decoration: none;
+    color:rgb(97, 91, 84);
+}
+#header-404{
+    background-color: rgb(227, 248, 245);
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    width: 250px;
+    font-family: "Audiowide", sans-serif;
+    color: rgb(97, 91, 84);
+
+}
+.body-lost{
+    display: flex;
+    justify-content: center;
+    background-position: center;
+    color: white;
+    position: absolute;
+    
+}
+body.body-lost{
+    display: flex;
+    justify-content: center;
+}
+
+/* REFERENCES: 
+    background-image(/not-found.png):
+        https://freefrontend.com/assets/img/html-css-404-page-templates/HTML-404-Page-with-SVG.png
+*/

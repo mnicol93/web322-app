@@ -9,6 +9,7 @@
   "author": "Marc Nicolas Oliva",
   "license": "ISC",
   "dependencies": {
+    "@material/button": "^11.0.0",
     "express": "^4.17.1"
   },
   "devDependencies": {},

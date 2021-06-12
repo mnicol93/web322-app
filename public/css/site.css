@@ -1,0 +1,10 @@
+@use "@material/button";
+
+@include button.core-styles;
+
+body{
+    background-color: rgb(154, 202, 218);
+}
+.container-fluid {
+    background-color: rgb(54 69 90);
+}
