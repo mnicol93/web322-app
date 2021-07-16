@@ -1,3 +1,12 @@
+/********************************************************************************* 
+ * WEB322 – Assignment 04 
+ * I declare that this assignment is my own work in accordance with Seneca Academic Policy. 
+ * No part of this assignment has been copied manually or electronically from any other source 
+ * (including 3rd party web sites) or distributed to other students. 
+ * Name: Marc Nicolas Oliva Student ID: 130943202 Date: 16-07-2021 
+ * Online (Heroku) Link: https://web322-a4-mno.herokuapp.com/employees 
+ *  ********************************************************************************/
+
 const express = require("express");
 const path = require("path");
 const data = require("./data-service.js");
